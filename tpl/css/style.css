@@ -1,0 +1,39 @@
+#post {
+    padding-top: 50px;
+}
+#login {
+    margin-top: 10px;
+}
+#auth {
+    margin-left: 3px;
+    margin-top: 7px;
+    float: right;
+}
+#top-menu {
+    border-radius: 0px;
+}
+.modal-content {
+    width:500px;
+    float: right;
+    margin-top: 50px;
+}
+p {
+    text-align:justify;
+    font-size: 10pt;
+}
+#bash {
+    font-size: 40px;
+    color: #ffffff;
+    float: right;
+    margin-top: 2px;
+}
+#buy {
+    width: 100%;
+}
+#cost {
+    width: 100%;
+}
+#input-message {
+    width: 100%;
+    resize: none;
+}
